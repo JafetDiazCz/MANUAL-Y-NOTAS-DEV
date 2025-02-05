@@ -1,0 +1,179 @@
+C:\Users\SYNTAX\Downloads\cmder                                                                                    
+λ cd C:\Users\SYNTAX\Documents\MDown                                                                               
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MDown                                                                                    
+λ dir                                                                                                              
+ El volumen de la unidad C es Acer                                                                                 
+ El número de serie del volumen es: F067-AE49                                                                      
+                                                                                                                   
+ Directorio de C:\Users\SYNTAX\Documents\MDown                                                                     
+                                                                                                                   
+04/02/2025  10:30 a. m.    <DIR>          .                                                                        
+04/02/2025  10:30 a. m.    <DIR>          ..                                                                       
+               0 archivos              0 bytes                                                                     
+               2 dirs  596,450,369,536 bytes libres                                                                
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MDown                                                                                    
+λ git --version                                                                                                    
+git version 2.45.1.windows.1                                                                                       
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MDown                                                                                    
+λ git init                                                                                                         
+hint: Using 'master' as the name for the initial branch. This default branch name                                  
+hint: is subject to change. To configure the initial branch name to use in all                                     
+hint: of your new repositories, which will suppress this warning, call:                                            
+hint:                                                                                                              
+hint:   git config --global init.defaultBranch <name>                                                              
+hint:                                                                                                              
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and                                            
+hint: 'development'. The just-created branch can be renamed via this command:                                      
+hint:                                                                                                              
+hint:   git branch -m <name>                                                                                       
+Initialized empty Git repository in C:/Users/SYNTAX/Documents/MDown/.git/                                          
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MDown (master)                                                                           
+λ git add .                                                                                                        
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MDown (master)                                                                           
+λ cd                                                                                                               
+C:\Users\SYNTAX\Documents\MDown                                                                                    
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MDown                                                                                    
+λ cd ..                                                                                                            
+                                                                                                                   
+C:\Users\SYNTAX\Documents                                                                                          
+λ cd C:\Users\SYNTAX\Documents\MD                                                                                  
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MD                                                                                       
+λ dir                                                                                                              
+ El volumen de la unidad C es Acer                                                                                 
+ El número de serie del volumen es: F067-AE49                                                                      
+                                                                                                                   
+ Directorio de C:\Users\SYNTAX\Documents\MD                                                                        
+                                                                                                                   
+04/02/2025  11:59 a. m.    <DIR>          .                                                                        
+04/02/2025  11:55 a. m.    <DIR>          ..                                                                       
+04/02/2025  11:55 a. m.    <DIR>          .vscode                                                                  
+28/01/2025  10:25 a. m.           264,067 1.png                                                                    
+28/01/2025  11:38 a. m.           186,316 10.png                                                                   
+28/01/2025  11:39 a. m.           216,567 11.png                                                                   
+28/01/2025  11:39 a. m.           122,765 12.png                                                                   
+28/01/2025  10:27 a. m.           356,630 2.png                                                                    
+28/01/2025  10:29 a. m.           285,559 3.png                                                                    
+28/01/2025  10:53 a. m.           386,197 4.png                                                                    
+28/01/2025  12:07 p. m.           188,018 5.png                                                                    
+28/01/2025  10:54 a. m.           123,367 6.png                                                                    
+28/01/2025  11:37 a. m.           116,421 7.png                                                                    
+28/01/2025  11:38 a. m.            51,944 8.png                                                                    
+28/01/2025  11:38 a. m.           137,326 9.png                                                                    
+28/01/2025  11:41 a. m.           343,694 Captura de pantalla 2025-01-28 114104.png                                
+28/01/2025  11:41 a. m.           288,873 Captura de pantalla 2025-01-28 114127.png                                
+28/01/2025  11:42 a. m.            57,008 Captura de pantalla 2025-01-28 114214.png                                
+28/01/2025  11:45 a. m.           180,643 Captura de pantalla 2025-01-28 114533.png                                
+28/01/2025  11:56 a. m.            45,512 Captura de pantalla 2025-01-28 115606.png                                
+28/01/2025  11:56 a. m.            19,205 Captura de pantalla 2025-01-28 115653.png                                
+28/01/2025  11:57 a. m.            25,431 Captura de pantalla 2025-01-28 115737.png                                
+28/01/2025  11:57 a. m.            24,111 Captura de pantalla 2025-01-28 115757.png                                
+28/01/2025  11:58 a. m.            29,698 Captura de pantalla 2025-01-28 115821.png                                
+28/01/2025  11:58 a. m.            30,727 Captura de pantalla 2025-01-28 115836.png                                
+28/01/2025  11:59 a. m.            31,669 Captura de pantalla 2025-01-28 115904.png                                
+28/01/2025  12:00 p. m.           101,468 Captura de pantalla 2025-01-28 120051.png                                
+29/01/2025  01:56 p. m.            52,978 Captura de pantalla 2025-01-29 135621.png                                
+29/01/2025  11:29 p. m.           542,197 logo.png                                                                 
+30/01/2025  09:53 a. m.             2,418 MANUAL-RE.md                                                             
+30/01/2025  09:53 a. m.               822 MANUAL.md                                                                
+04/02/2025  11:59 a. m.             2,418 Mnual.md                                                                 
+              29 archivos      4,214,049 bytes                                                                     
+               3 dirs  596,342,075,392 bytes libres                                                                
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MD                                                                                       
+λ git init                                                                                                         
+hint: Using 'master' as the name for the initial branch. This default branch name                                  
+hint: is subject to change. To configure the initial branch name to use in all                                     
+hint: of your new repositories, which will suppress this warning, call:                                            
+hint:                                                                                                              
+hint:   git config --global init.defaultBranch <name>                                                              
+hint:                                                                                                              
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and                                            
+hint: 'development'. The just-created branch can be renamed via this command:                                      
+hint:                                                                                                              
+hint:   git branch -m <name>                                                                                       
+Initialized empty Git repository in C:/Users/SYNTAX/Documents/MD/.git/                                             
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MD (master)                                                                              
+λ git add .                                                                                                        
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MD (master)                                                                              
+λ git commit -m "carga de proyecto"                                                                                
+Author identity unknown                                                                                            
+                                                                                                                   
+*** Please tell me who you are.                                                                                    
+                                                                                                                   
+Run                                                                                                                
+                                                                                                                   
+  git config --global user.email "you@example.com"                                                                 
+  git config --global user.name "Your Name"                                                                        
+                                                                                                                   
+to set your account's default identity.                                                                            
+Omit --global to set the identity only in this repository.                                                         
+                                                                                                                   
+fatal: unable to auto-detect email address (got 'SYNTAX@PROTOTYPE.(none)')                                         
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MD (master)                                                                              
+λ git branch -M main                                                                                               
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MD (main)                                                                                
+λ git remote add origin NotasDev.git                                                                               
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MD (main)                                                                                
+λ git remote add origin https://github.com/JafetDiazCz/NotasDev.git                                                
+error: remote origin already exists.                                                                               
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MD (main)                                                                                
+λ git commit -m "carga de proyecto"                                                                                
+Author identity unknown                                                                                            
+                                                                                                                   
+*** Please tell me who you are.                                                                                    
+                                                                                                                   
+Run                                                                                                                
+                                                                                                                   
+  git config --global user.email "you@example.com"                                                                 
+  git config --global user.name "Your Name"                                                                        
+                                                                                                                   
+to set your account's default identity.                                                                            
+Omit --global to set the identity only in this repository.                                                         
+                                                                                                                   
+fatal: unable to auto-detect email address (got 'SYNTAX@PROTOTYPE.(none)')                                         
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MD (main)                                                                                
+λ git config --global user.email "diazcruzjafet01@gmail.com"                                                       
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MD (main)                                                                                
+λ git config --global user.name "JafetDiazCz"                                                                      
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MD (main)                                                                                
+λ git branch -M main                                                                                               
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MD (main)                                                                                
+λ  git remote add origin NotasDev.git                                                                              
+error: remote origin already exists.                                                                               
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MD (main)                                                                                
+λ  git remote add origin https://github.com/JafetDiazCz/NotasDev.git                                               
+error: remote origin already exists.                                                                               
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MD (main)                                                                                
+λ git remote add origin NotasDev.git                                                                               
+error: remote origin already exists.                                                                               
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MD (main)                                                                                
+λ git remote add origin NotasDev.git                                                                               
+error: remote origin already exists.                                                                               
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MD (main)                                                                                
+λ git push -u origin main                                                                                          
+error: src refspec main does not match any                                                                         
+error: failed to push some refs to 'NotasDev.git'                                                                  
+                                                                                                                   
+C:\Users\SYNTAX\Documents\MD (main)                                                                                
+λ                                                                                                                  
